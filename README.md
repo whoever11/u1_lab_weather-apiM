@@ -34,3 +34,5 @@ const apiKey = your api key
 const button = document.querySelector(The Button!)
 const input = document.querySelector(The Input!).value
 ```
+
+Test your API call by logging your data into the console, then render it on screen to see your live information on screen!
