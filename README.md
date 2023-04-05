@@ -58,8 +58,10 @@ Next lets add a Click event to our button that calls a function to make the Axio
 
 Test your API call by logging your data into the console, then render it on screen to see your live information on screen! You may need to drill down through your data to get the information that you want!
 
-We've already seen that using city names with spaces could be an issue, we may wan to to console.log our url that we are calling as well to make sure it matches our correct Insomnia calls
+We've already seen that using city names with spaces could be an issue, make sure to to console.log our url that we are calling as well to make sure it matches our correct Insomnia calls. 
 
+Will ...q=sanfrancisco... in the url work?
+ 
 Once you have your data logged, add in some style through a CSS file. It looks like our Weather has an icon as well, can we have that image rendered on screen?
 
 
