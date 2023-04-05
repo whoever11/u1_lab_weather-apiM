@@ -50,7 +50,7 @@ const apiKey = your api key
 const button = document.querySelector(The Button!)
 const input = document.querySelector(The Input!).value
 ```
-Though obviously the Button and Input name's aren't correct there, but hey we can't give you all the answers for this!
+Though obviously the Button and Input name's aren't correct there, and your api key ****probably**** isn't 'your api key' (it'd be pretty wild if it was) so make sure to update those with your information. Hey we can't give you all the answers for this!
 
 Next lets add a Click event to our button that will make the Axios call to the url provided.
 
