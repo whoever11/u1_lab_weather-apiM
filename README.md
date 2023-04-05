@@ -1,3 +1,5 @@
+# JSDR 213 - April 5, 2023
+
 ### Open Weather API
 
 Lets take our API call functionality up a notch by working with an API that requires a (free) password known as an API key.
@@ -55,3 +57,6 @@ Test your API call by logging your data into the console, then render it on scre
 We've already seen that using city names with spaces could be an issue, we may wan to to console.log our url that we are calling as well to make sure it matches our correct Insomnia calls
 
 Once you have your data logged, add in some style through a CSS file
+
+
+This lab/HW will be due 4/12/23 at the beginning of class
