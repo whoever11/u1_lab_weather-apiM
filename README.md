@@ -22,7 +22,7 @@ We can do our usual HTML set up creating a text input, a button, and some empty 
 
 ```html
 
-<input id="textInput" placeholder="enter city here" />
+<input id="textInput" type="text" placeholder="enter city here" />
 <button id="submitButton"> Click Here </button>
 
 <h1 id="cityName"> </h1>
