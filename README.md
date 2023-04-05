@@ -42,7 +42,9 @@ Remember, we'll need to add our Axios and JS files in the head of our HTML befor
     <script defer src="script.js"></script>
 </head>
 
-Now we can get working on our JS, which may look something like this
+```
+
+Now we can get working on our JS, which may look something like this 
 
 ```js
 
@@ -52,7 +54,7 @@ const input = document.querySelector(The Input!).value
 ```
 Though obviously the Button and Input name's aren't correct there, and your api key ****probably**** isn't 'your api key' (it'd be pretty wild if it was) so make sure to update those with your information. Hey we can't give you all the answers for this!
 
-Next lets add a Click event to our button that will make the Axios call to the url provided.
+Next lets add a Click event to our button that calls a function to make the Axios call to the url provided.
 
 Test your API call by logging your data into the console, then render it on screen to see your live information on screen! You may need to drill down through your data to get the information that you want!
 
