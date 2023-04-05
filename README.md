@@ -14,6 +14,8 @@ Lets look at the documentation for the API together. Once you get a key, enter i
 
 We're going to use the app Insomnia (or Postman, if you are already familar with that) to test our cities, and our key. We can see how single worded cities like London, Paris, or Boston will work. How can we make a call for a city like New York, Los Angeles, or Rio de Janero? Let's plug a few of these different cities into the app to see what the call looks like, and to see what kind of data we are working with.
 
+
+
 We test out our API calls with these apps because we can check to see if the URL will work before start attaching the Axios functionality to it. If it doesn't work on Insomnia, its not going to work on our app!
 
 We can do our usual HTML set up creating a text input, a button, and some empty text elements, and then using DOM manipulation to populate them:
@@ -56,7 +58,7 @@ Test your API call by logging your data into the console, then render it on scre
 
 We've already seen that using city names with spaces could be an issue, we may wan to to console.log our url that we are calling as well to make sure it matches our correct Insomnia calls
 
-Once you have your data logged, add in some style through a CSS file
+Once you have your data logged, add in some style through a CSS file. It looks like our Weather has an icon as well, can we have that image rendered on screen?
 
 
 This lab/HW will be due 4/12/23 at the beginning of class 
