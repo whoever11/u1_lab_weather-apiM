@@ -59,4 +59,4 @@ We've already seen that using city names with spaces could be an issue, we may w
 Once you have your data logged, add in some style through a CSS file
 
 
-This lab/HW will be due 4/12/23 at the beginning of class
+This lab/HW will be due 4/12/23 at the beginning of class 
