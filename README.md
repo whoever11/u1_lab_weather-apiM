@@ -1,4 +1,4 @@
-# JSDR 213 - April 5, 2023
+# SEIR 0508
 
 ### Open Weather API
 
@@ -65,4 +65,3 @@ Will ...q=sanfrancisco... in the url work?
 Once you have your data logged, add in some style through a CSS file. It looks like our Weather has an icon as well, can we have that image rendered on screen?
 
 
-This lab/HW will be due 4/12/23 at the beginning of class 
