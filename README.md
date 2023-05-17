@@ -12,7 +12,7 @@ Lets look at the documentation for the API together. Once you get a key, enter i
 `http://api.weatherapi.com/v1/current.json?key=${key}&q=${city}&aqi=no`
 ```
 
-We're going to use the app Insomnia (or Postman, if you are already familar with that) to test our cities, and our key. We can see how single worded cities like London, Paris, or Boston will work. How can we make a call for a city like New York, Los Angeles, or Rio de Janero? Let's plug a few of these different cities into the app to see what the call looks like, and to see what kind of data we are working with.
+We're going to use the ThunderClient extension to test our cities, and our key. We can see how single worded cities like London, Paris, or Boston will work. How can we make a call for a city like New York, Los Angeles, or Rio de Janero? Let's plug a few of these different cities into the app to see what the call looks like, and to see what kind of data we are working with.
 
 
 
